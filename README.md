@@ -24,3 +24,5 @@ The primary source of data used here is data sale.csv
 ### Exploratory Data Analysis
 
 ### Data Analysis
+
+### Result Analysis
