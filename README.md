@@ -18,3 +18,9 @@ The primary source of data used here is data sale.csv
       2. Data munching
 - SQL server (for querying and analysis)
 - Power BI (for creating a report)
+
+### Data cleaning
+
+### Exploratory Data Analysis
+
+### Data Analysis
