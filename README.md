@@ -26,3 +26,6 @@ The primary source of data used here is data sale.csv
 ### Data Analysis
 
 ### Result Analysis
+
+*Italics*
+**Bold**
